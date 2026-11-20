@@ -30,4 +30,4 @@ A full-featured desktop application developed for the **Medical Supplies Divisio
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/TashilaDilshanK/medical-supply-management-system-java.git](https://github.com/TashilaDilshanK/medical-supply-management-system-java.git)
+   git clone https://github.com/TashilaDilshanK/medical-supply-management-system-java.git
